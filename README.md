@@ -88,8 +88,11 @@ If you want to use this in:
 
 Summary:
 	•	✅ Personal projects → allowed
+	
 	•	✅ Research / learning → allowed
+	
 	•	❌ Commercial use → requires paid license
+	
 	•	✅ Credit required
 
 Contact for commercial licensing:
