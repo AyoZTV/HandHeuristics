@@ -13,6 +13,7 @@ This repo is modular — use one tracker or stack them together.
 ⸻
 
 ✨ Features
+	
 	•	🖐️ Hand tracking
 	•	Single hand
 	•	Two hands
@@ -41,25 +42,21 @@ Each script can be run independently.
 🚀 Getting Started
 
 Requirements
+	
 	•	Python 3.8+
 	•	Webcam
-
-Install dependencies
-
-pip install opencv-python mediapipe numpy
-
-Run an example
-
-python hand_tracker.py
-
-Or try full body tracking:
-
-python full_body_holistic.py
+	•	Install dependencies
+	•	pip install opencv-python mediapipe numpy
+	•	Run an example
+	•	python hand_tracker.py
+	•	Or try full body tracking:
+	•	python full_body_holistic.py
 
 
 ⸻
 
 🧪 Use Cases
+	
 	•	Gesture-based interaction
 	•	AI / ML experiments
 	•	Motion capture prototyping
@@ -78,6 +75,7 @@ This project is free for personal and non-commercial use, with attribution.
 🚫 Commercial use is NOT allowed without purchasing a license.
 
 If you want to use this in:
+	
 	•	a startup
 	•	a product
 	•	a paid app
@@ -87,12 +85,10 @@ If you want to use this in:
 👉 You must contact me first.
 
 Summary:
+	
 	•	✅ Personal projects → allowed
-	
 	•	✅ Research / learning → allowed
-	
 	•	❌ Commercial use → requires paid license
-	
 	•	✅ Credit required
 
 Contact for commercial licensing:
